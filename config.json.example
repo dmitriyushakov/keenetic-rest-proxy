@@ -1,0 +1,7 @@
+{
+    "router_host": "192.168.1.1",
+    "login": "admin",
+    "password": "12345678",
+    "host": "127.0.0.1",
+    "port": 8000
+}
